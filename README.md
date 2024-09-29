@@ -1,4 +1,4 @@
-# Mysql_analysis_project
+# MySql_Pizza_Sales_analysis_project
 ## Project Overeview
 This project provides an SQL script for managing and analyzing pizza sales data. It includes queries for retrieving, updating, and manipulating sales data, making it easier for businesses to track performance and identify trends in pizza sales.
 ## Features
